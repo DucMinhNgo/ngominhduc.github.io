@@ -1,4 +1,4 @@
-title: My blog
+title: Ngo Minh Duc
 description: My very nice blog
 author: "Jorge Sanz"
 
@@ -25,12 +25,12 @@ header_pages:
   - _pages/archive.md
 
 include:
-    - _pages
+  - _pages
 
-exclude: 
-    - .gitignore
-    - docker-compose.yml
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
-    - README.md
+exclude:
+  - .gitignore
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
