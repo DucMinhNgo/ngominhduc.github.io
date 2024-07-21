@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: About me
+title: Home
 list_title: Ngo Minh Duc posts
 ---
 
