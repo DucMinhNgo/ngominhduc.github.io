@@ -1,6 +1,6 @@
 title: Ngo Minh Duc
-description: My very nice blog
-author: "Jorge Sanz"
+description: Study! Study More! Study Forever!
+author: "Ngo Minh Duc"
 
 theme: minima
 
@@ -8,8 +8,8 @@ base_url: /gh-pages-minima-starter
 repository: jsanz/gh-pages-minima-starter
 
 # Minima social links
-github_username: jsanz
-linkedin_username: jsanz
+github_username: DucMinhNgo
+linkedin_username: Ngô Minh Đức (Dustin)
 rss: rss
 
 # Minima: show excerpts in the frontpage
